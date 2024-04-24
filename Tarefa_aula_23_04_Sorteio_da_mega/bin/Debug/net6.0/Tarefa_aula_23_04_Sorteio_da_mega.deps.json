@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tarefa_aula_23_04_Sorteio_da_mega/1.0.0": {
+        "runtime": {
+          "Tarefa_aula_23_04_Sorteio_da_mega.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarefa_aula_23_04_Sorteio_da_mega/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
